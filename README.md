@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/3b5bc599-9d99-40f3-a5b1-254f74c8cd6a
 # Brick Breaker
 
 ## Overview
