@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/3b5bc599-9d99-40f3-a5b1-254f74c8cd6a
 # Brick Breaker
 
 ## Overview
@@ -31,4 +33,5 @@ A fast-paced Flutter brick breaker game that showcases a custom physics engine, 
 ## App Demo
 
 
+https://github.com/user-attachments/assets/2a302b65-b094-4ae0-8ac8-5bf0fa1e5452
 
