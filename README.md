@@ -27,3 +27,9 @@ A fast-paced Flutter brick breaker game that showcases a custom physics engine, 
 - **Determinism**: Balancing a fixed timestep for physics with Flutter’s rendering cadence to avoid desync and visual stutter.
 - **Input Responsiveness**: Ensuring paddle movement feels immediate on touch devices despite the game loop’s fixed update cadence.
 - **Iteration Speed**: Managing hot reload cycles and debugging physics visually to quickly validate changes.
+
+## App Demo
+
+
+https://github.com/user-attachments/assets/fa050f8d-8412-4208-81c2-71442d5d9afc
+
