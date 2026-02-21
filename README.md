@@ -31,5 +31,4 @@ A fast-paced Flutter brick breaker game that showcases a custom physics engine, 
 ## App Demo
 
 
-https://github.com/user-attachments/assets/fa050f8d-8412-4208-81c2-71442d5d9afc
 
